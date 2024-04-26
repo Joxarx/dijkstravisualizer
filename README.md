@@ -10,5 +10,3 @@ El Buscador de Ruta de Dijkstra es una aplicación web que visualiza el algoritm
 - Resaltado de la ruta más corta encontrada
 - Aleatorización de paredes para diferentes escenarios de búsqueda de rutas
 - Opción para ver las celdas visitadas después de que el algoritmo se completa
-
-  ![Diagrama de Flujo](https://github.com/Joxarx/dijkstravisualizer/assets/145069399/905e317a-cd59-4807-ad8f-40bf3a03f976)
